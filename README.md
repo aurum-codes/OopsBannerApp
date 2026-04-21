@@ -1,7 +1,7 @@
 # 🪧 OopsBannerApp
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Language](https://img.shields.io/badge/language-[Your_Language]-blue)
+![Language](https://img.shields.io/badge/language-[C++]-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 **OopsBannerApp** is a console-based application designed to generate and manage text banners. More importantly, this project serves as a practical implementation of core **Object-Oriented Programming (OOP)** principles, demonstrating how to structure scalable and maintainable code.
